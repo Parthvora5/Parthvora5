@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about data, machine learning, and b
 
 ## 📫 How to reach me:
 - GitHub: [@Parthvora5](https://github.com/Parthvora5)
-- Email: parthvora84@gmail.com
+- Email: voraparth84@gmail.com
 - LinkedIn: [Parth Vora](https://www.linkedin.com/in/parth-vora-07b904251/)
 
 ---
